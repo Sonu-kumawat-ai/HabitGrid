@@ -1,0 +1,38 @@
+# Gradle files
+.gradle/
+build/
+/local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Kotlin
+.kotlin/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.apk
+*.aar
+*.ap_
+*.der
+*.pem
+
+# Crashlytics / Firebase / Google Services config
+# (Add specific patterns if using Firebase/Google services secrets)
+
+# Secrets / API keys / Local configurations
+.env
+.env.local
+.env.*.local
