@@ -8,25 +8,25 @@ What makes HabitGrid unique is its ability to turn your actual habit grid into y
 
 ## ✨ Features Breakdown
 
-* **🎨 Live Wallpaper Grid - **
+* **🎨 Live Wallpaper Grid** - 
   *Our favorite feature!* Put your habit grid directly on your phone's background screen. It updates in real-time using high-efficiency canvas drawings, giving you a gentle, ambient reminder of your daily progress.
 
-* **🏠 Personal Dashboard - **
+* **🏠 Personal Dashboard** - 
   Keep track of your habits for the day, check off completed tasks, and jot down quick daily notes to reflect on your journey.
 
-* **📁 Group Your Routines - **
+* **📁 Group Your Routines** - 
   Organize your habits into custom sets (like *Morning Routine*, *Work*, or *Fitness*) so you can manage related goals together.
 
-* **📈 Easy-to-Read Progress & Analytics - **
+* **📈 Easy-to-Read Progress & Analytics** - 
   View simple charts, completion heatmaps, and streak counters to see how well you are staying consistent over weeks and months.
 
-* **📅 History Calendar - **
+* **📅 History Calendar** - 
   Look back at your calendar to review past accomplishments, see how many habits you completed on a specific day, and read your saved notes.
 
-* **🔔 Friendly Reminders - **
+* **🔔 Friendly Reminders** - 
   Receive notifications when it's time to log your habits, along with helpful nudges when you're about to break a streak.
 
-* **🌗 Light & Dark Themes - **
+* **🌗 Light & Dark Themes** - 
   Automatically adjusts to your phone's light or dark mode for a comfortable reading experience day or night.
 
 ---
